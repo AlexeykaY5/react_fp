@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "mcdonalds-app",
+    "slug": "mcdonalds-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "mcdonalds-app"
+}
